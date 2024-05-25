@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bar Chart</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="barchart.css">
+    <script defer src="barchart.js"></script>
+</head>
+<body>
+    <div>
+        <label for="countrySelect">Choose a country:</label>
+        <select id="countrySelect"></select>
+    </div>
+    <div>
+        <label for="differenceSelect">Difference between:</label>
+        <select id="differenceSelect">
+            <option value="ozone_vs_pm25">Ozone and PM2.5</option>
+            <option value="no2_vs_co">NO2 and CO</option>
+            <option value="no2_vs_ozone">NO2 and Ozone</option>
+            <option value="co_vs_pm25">CO and PM2.5</option>
+            <option value="co_vs_ozone">CO and Ozone</option>
+        </select>
+    </div>
+    <svg id="barchart" width="900" height="500"></svg>
+    <div id="legend"></div>
+</body>
+</html>

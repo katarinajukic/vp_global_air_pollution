@@ -1,0 +1,34 @@
+.axis {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 5px;
+    background: lightsteelblue;
+    border: 1px solid #333;
+    border-radius: 8px;
+    pointer-events: none;
+    z-index: 999; /* Ensure tooltip is on top of other elements */
+    opacity: 0; /* Initially hide the tooltip */
+}
+
+.legend {
+    font-size: 12px;
+}
+
+.legend rect {
+    stroke-width: 2;
+}
+
+.city-details {
+    font-size: 10px;
+}

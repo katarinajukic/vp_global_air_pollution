@@ -1,0 +1,18 @@
+#barchart {
+    margin: 20px;
+    width: 1000px;
+    height: 600px;
+}
+
+.axis-x text {
+    transform: rotate(-45deg);
+    text-anchor: end;
+}
+
+.legend {
+    font-size: 12px;
+}
+
+.legend-item {
+    margin-bottom: 10px;
+}
