@@ -54,7 +54,7 @@ function convertToAQI(pollutant, value) {
 
 let selectedCities = [];
 
-d3.csv("global_air_pollution_data_prepared.csv").then(function(data) {
+d3.csv("../csv/global_air_pollution_data_prepared.csv").then(function(data) {
     const countries = Array.from(new Set(data.map(d => d.country_name))).sort();
     const countrySelect = d3.select("#countrySelect");
     countrySelect.selectAll("option")

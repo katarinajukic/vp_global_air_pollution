@@ -63,3 +63,26 @@ h1 {
   text-align: center;
   margin-top: 20px;
 }
+
+#controls {
+  text-align: center;
+  margin: 20px 0;
+}
+
+
+#barchart {
+  width: 1000px;
+  height: 500px;
+  margin: 20px auto;
+}
+
+label {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+}
+
+select {
+  display: block;
+  margin: 10px auto;
+}
