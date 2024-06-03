@@ -6,12 +6,18 @@ const svg = d3.select("#map")
   .attr("width", width)
   .attr("height", height)
   .call(d3.zoom()
-    .scaleExtent([1, 25]) // Increased max zoom level to 16
+    .scaleExtent([1, 90])
     .translateExtent([[0, 0], [width, height]])
     .on("zoom", function (event) {
-      svg.attr("transform", event.transform);
-    }))
-  .append("g");
+      g.attr("transform", event.transform);
+    }));
+
+svg.append("rect")
+  .attr("width", width)
+  .attr("height", height)
+  .attr("fill", "lightblue");
+
+const g = svg.append("g");
 
 const projection = d3.geoMercator()
   .scale(150)
@@ -23,15 +29,19 @@ let currentCountryData = null;
 let globalData = null;
 
 Promise.all([
-  d3.json("../csv/countries.geo.json"),
+  d3.json("../csv/countries-110m.json"),
   d3.csv("../csv/world_air_pollution_data.csv")
-]).then(function([world, data]) {
-  console.log('World GeoJSON Loaded:', world);
+]).then(function([topology, data]) {
+  console.log('TopoJSON Loaded:', topology);
   console.log('Air Pollution Data Loaded:', data);
 
-  globalData = data; // Store the data globally
+  globalData = data;
 
-  const countries = world.features;
+  const geojson = topojson.feature(topology, topology.objects.countries);
+
+  console.log('GeoJSON Features:', geojson.features);
+
+  const countries = geojson.features;
 
   console.log('Country Names from GeoJSON:', countries.map(d => d.properties.name));
   console.log('Unique Country Names from CSV:', [...new Set(data.map(d => d.Country))]);
@@ -44,7 +54,7 @@ Promise.all([
     countryDataMap[d.Country].push(d);
   });
 
-  svg.selectAll("path")
+  g.selectAll("path")
     .data(countries)
     .enter().append("path")
     .attr("d", path)
@@ -55,7 +65,7 @@ Promise.all([
         return getColor(countryData[0]["AQI Category"]);
       } else {
         console.log(`No data for country: ${countryName}`);
-        return "lightblue";
+        return "#00e400";
       }
     })
     .attr("stroke", "white")
@@ -86,7 +96,7 @@ Promise.all([
       }
     });
 
-  svg.selectAll("circle")
+  g.selectAll("circle")
     .data(data)
     .enter().append("circle")
     .attr("cx", function(d) {

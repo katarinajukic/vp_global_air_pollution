@@ -1,6 +1,6 @@
 #map {
-  width: 900px; /* Increased width */
-  height: 700px; /* Increased height */
+  width: 900px; 
+  height: 700px;
   margin: 0 auto;
   background-color: #fff;
   position: relative;
@@ -19,9 +19,9 @@
   border-radius: 5px;
   max-width: 200px;
   font-size: 14px;
-  line-height: 1.5; /* Adjust line height */
-  overflow-y: auto; /* Add vertical scroll if needed */
-  max-height: fit-content; /* Set a maximum height */
+  line-height: 1.5; 
+  overflow-y: auto; 
+  max-height: fit-content; 
 }
 
 .legend {
@@ -30,9 +30,9 @@
   padding: 10px;
   font-family: Arial, sans-serif;
   position: absolute;
-  right: 50px; /* Adjusted position to move it to the right side of the map */
-  top: 50%; /* Center vertically */
-  transform: translateY(-50%); /* Center vertically */
+  right: 50px; 
+  top: 50%; 
+  transform: translateY(-50%);
 }
 
 .legend-item {
@@ -58,7 +58,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-/* Style the title */
+
 h1 {
   text-align: center;
   margin-top: 20px;

@@ -333,8 +333,6 @@ India,Rafiganj,356,Hazardous,1,Good,60,Moderate,0,Good,284,Very Unhealthy,24.82,
 United States of America,Rahway,62,Moderate,1,Good,44,Good,5,Good,62,Moderate,40.6077,-74.2807
 India,Phulpur,226,Very Unhealthy,1,Good,48,Good,1,Good,226,Very Unhealthy,24.955,90.3573
 India,Phulpur,226,Very Unhealthy,1,Good,48,Good,1,Good,226,Very Unhealthy,25.55,82.1
-Brazil,Picos,16,Good,0,Good,12,Good,0,Good,16,Good,15.083,-23.632
-Brazil,Picos,16,Good,0,Good,12,Good,0,Good,16,Good,-7.0769,-41.4669
 Germany,Pirmasens,30,Good,1,Good,27,Good,2,Good,30,Good,49.2,7.6
 United States of America,Plum,55,Moderate,2,Good,26,Good,12,Good,55,Moderate,40.5024,-79.7495
 Italy,Policoro,46,Good,1,Good,46,Good,0,Good,14,Good,40.2,16.6667
@@ -402,12 +400,6 @@ Israel,Gan Yavne,77,Moderate,1,Good,43,Good,6,Good,77,Moderate,31.7886,34.7053
 Italy,Gela,53,Moderate,1,Good,38,Good,2,Good,53,Moderate,37.0667,14.25
 Netherlands,Gennep,30,Good,0,Good,25,Good,3,Good,30,Good,51.7,5.9667
 Germany,Genthin,31,Good,0,Good,30,Good,1,Good,31,Good,52.4,12.1667
-Guyana,Georgetown,27,Good,0,Good,19,Good,0,Good,27,Good,6.8058,-58.1508
-Guyana,Georgetown,27,Good,0,Good,19,Good,0,Good,27,Good,-7.9286,-14.4119
-Guyana,Georgetown,27,Good,0,Good,19,Good,0,Good,27,Good,30.666,-97.6966
-Guyana,Georgetown,27,Good,0,Good,19,Good,0,Good,27,Good,38.2247,-84.5487
-Guyana,Georgetown,27,Good,0,Good,19,Good,0,Good,27,Good,31.9849,-81.226
-Guyana,Georgetown,27,Good,0,Good,19,Good,0,Good,27,Good,-18.3,143.55
 Germany,Gera,30,Good,0,Good,28,Good,2,Good,30,Good,50.8806,12.0833
 United States of America,Lake Jackson,25,Good,0,Good,24,Good,2,Good,25,Good,29.0516,-95.4521
 United States of America,Lakeside,57,Moderate,2,Good,22,Good,14,Good,57,Moderate,30.1356,-81.7674
@@ -984,7 +976,6 @@ United States of America,Middletown,48,Good,1,Good,29,Good,8,Good,48,Good,38.241
 United States of America,Middletown,48,Good,1,Good,29,Good,8,Good,48,Good,40.201,-76.7289
 Japan,Mihara,36,Good,1,Good,34,Good,5,Good,36,Good,34.4,133.0833
 United States of America,Milford Mill,58,Moderate,1,Good,45,Good,4,Good,58,Moderate,39.3444,-76.7668
-Cabo Verde,Mindelo,36,Good,0,Good,36,Good,0,Good,27,Good,16.886,-24.988
 Japan,Minokamo,42,Good,1,Good,42,Good,1,Good,31,Good,35.4402,137.0157
 India,Mirganj,168,Unhealthy,4,Good,168,Unhealthy,1,Good,165,Unhealthy,26.3638,84.364
 Dominican Republic,Moca,74,Moderate,1,Good,12,Good,10,Good,74,Moderate,19.3833,-70.5167
@@ -1320,7 +1311,6 @@ Brazil,Pontal,131,Unhealthy for Sensitive Groups,4,Good,3,Good,8,Good,131,Unheal
 United Kingdom,Poole,47,Good,1,Good,9,Good,12,Good,47,Good,50.7167,-1.9833
 Papua New Guinea,Popondetta,21,Good,0,Good,20,Good,0,Good,21,Good,-8.7656,148.2347
 Russia,Porkhov,30,Good,1,Good,30,Good,1,Good,22,Good,57.7833,29.5667
-India,Port Blair,32,Good,0,Good,18,Good,0,Good,32,Good,11.6683,92.7378
 Russia,Abakan,57,Moderate,1,Good,43,Good,0,Good,57,Moderate,53.7167,91.4667
 Canada,Abbotsford,27,Good,1,Good,27,Good,4,Good,23,Good,49.05,-122.3167
 Italy,Acireale,55,Moderate,1,Good,39,Good,1,Good,55,Moderate,37.6167,15.1667
@@ -2679,7 +2669,6 @@ Italy,Maranello,61,Moderate,1,Good,42,Good,1,Good,61,Moderate,44.5333,10.8667
 South Africa,Margate,56,Moderate,1,Good,26,Good,1,Good,56,Moderate,26.2466,-80.2119
 South Africa,Margate,56,Moderate,1,Good,26,Good,1,Good,56,Moderate,51.385,1.3838
 South Africa,Margate,56,Moderate,1,Good,26,Good,1,Good,56,Moderate,-30.85,30.3667
-Spain,Arrecife,45,Good,0,Good,45,Good,0,Good,22,Good,28.9625,-13.5506
 Eritrea,Asmara,88,Moderate,1,Good,29,Good,0,Good,88,Moderate,15.3228,38.925
 Netherlands,Asten,33,Good,1,Good,33,Good,2,Good,32,Good,51.4,5.75
 Brazil,Astolfo Dutra,65,Moderate,2,Good,3,Good,5,Good,65,Moderate,-21.315,-42.8619
@@ -4401,8 +4390,6 @@ United States of America,Clemson,65,Moderate,2,Good,34,Good,7,Good,65,Moderate,3
 United States of America,Cliffside Park,119,Unhealthy for Sensitive Groups,3,Good,10,Good,33,Good,119,Unhealthy for Sensitive Groups,40.8222,-73.9879
 Canada,Cobourg,30,Good,1,Good,30,Good,2,Good,26,Good,43.9667,-78.1667
 United States of America,Collingswood,73,Moderate,1,Good,37,Good,5,Good,73,Moderate,39.916,-75.0758
-Uruguay,Colonia,52,Moderate,1,Good,11,Good,3,Good,52,Moderate,9.5167,138.1333
-Uruguay,Colonia,52,Moderate,1,Good,11,Good,3,Good,52,Moderate,40.5926,-74.3148
 United States of America,Columbia Heights,52,Moderate,1,Good,42,Good,3,Good,52,Moderate,45.0484,-93.2472
 United States of America,Cordele,58,Moderate,2,Good,29,Good,3,Good,58,Moderate,31.9563,-83.7694
 Italy,Cori,39,Good,2,Good,39,Good,6,Good,39,Good,41.6445,12.9127
@@ -5780,7 +5767,6 @@ Portugal,Tavira,38,Good,1,Good,38,Good,1,Good,26,Good,37.1167,-7.65
 United States of America,Taylor,29,Good,1,Good,20,Good,2,Good,29,Good,42.226,-83.2688
 United States of America,Taylor,29,Good,1,Good,20,Good,2,Good,29,Good,30.5729,-97.4268
 United States of America,Taylors,58,Moderate,1,Good,42,Good,4,Good,58,Moderate,34.9157,-82.3124
-Spain,Teguise,63,Moderate,1,Good,35,Good,1,Good,63,Moderate,29.0611,-13.5597
 Germany,Teltow,38,Good,0,Good,32,Good,1,Good,38,Good,52.4022,13.2706
 Brazil,Terra Santa,27,Good,1,Good,6,Good,0,Good,27,Good,-2.1039,-56.4869
 Thailand,Thap Than,21,Good,0,Good,21,Good,0,Good,19,Good,15.457,99.8959
@@ -5849,12 +5835,6 @@ Colombia,Ituango,34,Good,1,Good,13,Good,0,Good,34,Good,7.1667,-75.75
 Belgium,Izegem,37,Good,1,Good,24,Good,3,Good,37,Good,50.9172,3.215
 Brazil,Jales,58,Moderate,1,Good,11,Good,1,Good,58,Moderate,-20.2689,-50.5458
 United Kingdom,Gosforth,56,Moderate,0,Good,32,Good,0,Good,56,Moderate,55.007,-1.623
-Mexico,Guadalupe,28,Good,1,Good,16,Good,2,Good,28,Good,25.6775,-100.2597
-Mexico,Guadalupe,28,Good,1,Good,16,Good,2,Good,28,Good,22.7528,-102.5078
-Mexico,Guadalupe,28,Good,1,Good,16,Good,2,Good,28,Good,9.9494,-84.0512
-Mexico,Guadalupe,28,Good,1,Good,16,Good,2,Good,28,Good,0.38,6.6381
-Mexico,Guadalupe,28,Good,1,Good,16,Good,2,Good,28,Good,2.025,-75.7572
-Mexico,Guadalupe,28,Good,1,Good,16,Good,2,Good,28,Good,-6.7869,-43.5689
 Brazil,Guarapuava,15,Good,0,Good,13,Good,0,Good,15,Good,-25.3833,-51.45
 Turkmenistan,Gumdag,115,Unhealthy for Sensitive Groups,1,Good,41,Good,0,Good,115,Unhealthy for Sensitive Groups,39.2061,54.5906
 Germany,Hagenow,33,Good,0,Good,33,Good,1,Good,33,Good,53.4167,11.1833
@@ -6062,15 +6042,6 @@ Italy,Bondeno,69,Moderate,2,Good,27,Good,10,Good,69,Moderate,44.8833,11.4167
 Australia,Bowen,22,Good,0,Good,22,Good,0,Good,3,Good,-20.0102,148.2416
 South Africa,Brandfort,76,Moderate,3,Good,16,Good,3,Good,76,Moderate,-28.7,26.4667
 Brazil,Campos,55,Moderate,1,Good,16,Good,3,Good,55,Moderate,-21.7539,-41.3239
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,13.9311,121.4233
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,18.1835,-91.0463
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,3.4,-76.3833
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,15.6333,119.9333
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,28.3547,-16.371
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,22.7439,-82.9581
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,18.4042,-66.2175
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,10.4592,-74.8806
-Brazil,Candelaria,37,Good,1,Good,12,Good,1,Good,37,Good,13.75,-88.95
 Philippines,Carranglan,60,Moderate,1,Good,25,Good,1,Good,60,Moderate,15.9608,121.0631
 United States of America,Carson,101,Unhealthy for Sensitive Groups,3,Good,5,Good,38,Good,101,Unhealthy for Sensitive Groups,33.8374,-118.2559
 Italy,Casalpusterlengo,76,Moderate,1,Good,34,Good,5,Good,76,Moderate,45.1778,9.65
@@ -6080,8 +6051,6 @@ Rwanda,Bukavu,65,Moderate,2,Good,20,Good,0,Good,65,Moderate,-2.5,28.8667
 Spain,Bullas,29,Good,1,Good,21,Good,2,Good,29,Good,38.0497,-1.6706
 Brazil,Cajazeiras,23,Good,0,Good,14,Good,1,Good,23,Good,-6.89,-38.5619
 Italy,Campagna,49,Good,1,Good,45,Good,1,Good,49,Good,40.6667,15.1
-Spain,Arona,21,Good,0,Good,21,Good,1,Good,9,Good,28.0996,-16.6809
-Spain,Arona,21,Good,0,Good,21,Good,1,Good,9,Good,45.7569,8.56
 Ivory Coast,Arrah,58,Moderate,1,Good,14,Good,0,Good,58,Moderate,25.5514,84.6603
 Italy,Arzignano,65,Moderate,1,Good,36,Good,3,Good,65,Moderate,45.5167,11.3333
 Spain,Atarfe,33,Good,1,Good,33,Good,1,Good,25,Good,37.2229,-3.6899
@@ -6487,8 +6456,6 @@ Russia,Kharovsk,33,Good,1,Good,33,Good,0,Good,5,Good,59.95,40.2
 Senegal,Khombole,157,Unhealthy,2,Good,26,Good,3,Good,157,Unhealthy,14.7667,-16.6833
 Rwanda,Kibungo,69,Moderate,3,Good,19,Good,1,Good,69,Moderate,-2.1608,30.5442
 United States of America,Kinston,58,Moderate,1,Good,39,Good,3,Good,58,Moderate,35.2747,-77.5939
-Portugal,Machico,35,Good,0,Good,35,Good,0,Good,19,Good,32.7,-16.7667
-,,,,,,,,,,,,,
 Colombia,Majagual,37,Good,1,Good,19,Good,0,Good,37,Good,8.5,-74.6667
 United States of America,Malden,54,Moderate,1,Good,45,Good,3,Good,54,Moderate,42.4305,-71.0576
 Nicaragua,Managua,57,Moderate,1,Good,11,Good,5,Good,57,Moderate,12.1544,-86.2738
@@ -7904,9 +7871,6 @@ United Kingdom,Inverness,23,Good,1,Good,23,Good,1,Good,18,Good,57.4778,-4.2247
 United Kingdom,Inverness,23,Good,1,Good,23,Good,1,Good,18,Good,46.2,-61.1
 Tajikistan,Isfara,138,Unhealthy for Sensitive Groups,1,Good,63,Moderate,0,Good,138,Unhealthy for Sensitive Groups,40.1167,70.6333
 Brazil,Itapetinga,35,Good,1,Good,6,Good,2,Good,35,Good,-15.2489,-40.2478
-United States of America,Jamestown,77,Moderate,2,Good,8,Good,9,Good,77,Moderate,-15.9251,-5.7179
-United States of America,Jamestown,77,Moderate,2,Good,8,Good,9,Good,77,Moderate,42.0976,-79.2367
-United States of America,Jamestown,77,Moderate,2,Good,8,Good,9,Good,77,Moderate,46.9063,-98.6937
 India,Jangipur,84,Moderate,2,Good,43,Good,3,Good,84,Moderate,24.47,88.07
 India,Jasidih,95,Moderate,2,Good,62,Moderate,1,Good,95,Moderate,24.5138,86.6458
 United States of America,Jersey City,70,Moderate,2,Good,20,Good,18,Good,70,Moderate,40.7184,-74.0686
@@ -8292,7 +8256,6 @@ Germany,Schwetzingen,71,Moderate,1,Good,37,Good,2,Good,71,Moderate,49.3833,8.566
 United States of America,Seguin,55,Moderate,1,Good,16,Good,3,Good,55,Moderate,29.5891,-97.9676
 Italy,Seveso,67,Moderate,1,Good,36,Good,4,Good,67,Moderate,45.6434,9.1374
 Russia,Tayga,39,Good,1,Good,39,Good,0,Good,38,Good,56.0667,85.6167
-Spain,Telde,25,Good,0,Good,25,Good,0,Good,9,Good,27.9985,-15.4167
 Brazil,Terra Roxa,19,Good,1,Good,8,Good,1,Good,19,Good,-20.7889,-48.33
 Thailand,Tha Mai,41,Good,0,Good,18,Good,0,Good,41,Good,12.6196,102.0112
 China,Tieli,47,Good,2,Good,37,Good,0,Good,47,Good,46.9838,128.04
@@ -8689,23 +8652,6 @@ United States of America,San Marino,106,Unhealthy for Sensitive Groups,3,Good,22
 United States of America,San Marino,106,Unhealthy for Sensitive Groups,3,Good,22,Good,22,Good,106,Unhealthy for Sensitive Groups,34.1224,-118.1132
 Italy,San Pietro Vernotico,75,Moderate,1,Good,72,Moderate,0,Good,75,Moderate,40.4833,18.05
 Italy,San Prisco,69,Moderate,1,Good,69,Moderate,0,Good,55,Moderate,41.0833,14.2833
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,-17.7892,-63.1975
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,28.4667,-16.25
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,14.5998,120.9802
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,36.9789,-122.0346
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,14.2833,121.4167
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,6.8333,125.4167
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,14.1167,121.2833
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,15.7667,119.9167
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,10.2358,-85.6408
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,13.4833,122.0333
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,32.6833,-16.8
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,13.0831,120.7192
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,17.0853,120.4553
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,-6.2289,-36.0228
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,-34.6372,-71.3631
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,10.1819,-67.5025
-Costa Rica,Santa Cruz,53,Moderate,1,Good,30,Good,0,Good,53,Moderate,-0.5333,-90.35
 Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,-33.4372,-70.6506
 Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,19.4572,-70.6889
 Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,16.6833,121.55
@@ -9083,7 +9029,6 @@ United States of America,Fredonia,35,Good,1,Good,32,Good,4,Good,35,Good,42.4407,
 Mexico,Frontera,106,Unhealthy for Sensitive Groups,3,Good,20,Good,4,Good,106,Unhealthy for Sensitive Groups,26.926,-101.449
 Mexico,Frontera,106,Unhealthy for Sensitive Groups,3,Good,20,Good,4,Good,106,Unhealthy for Sensitive Groups,18.5336,-92.6469
 Mexico,Frontera,106,Unhealthy for Sensitive Groups,3,Good,20,Good,4,Good,106,Unhealthy for Sensitive Groups,-31.4278,-62.0619
-,Funchal,35,Good,0,Good,35,Good,0,Good,17,Good,32.65,-16.9167
 Lithuania,Garliava,46,Good,1,Good,33,Good,0,Good,46,Good,54.8167,23.8667
 Indonesia,Garut,69,Moderate,1,Good,33,Good,1,Good,69,Moderate,-7.2167,107.9
 Italy,Giaveno,39,Good,1,Good,30,Good,1,Good,39,Good,45.042,7.352
@@ -9211,15 +9156,6 @@ Brazil,Iguaba Grande,61,Moderate,2,Good,33,Good,3,Good,61,Moderate,-22.8389,-42.
 Russia,Guryevsk,40,Good,1,Good,40,Good,1,Good,25,Good,54.2833,85.9333
 Russia,Guryevsk,40,Good,1,Good,40,Good,1,Good,25,Good,54.7833,20.6167
 Belgium,Haaltert,40,Good,1,Good,24,Good,4,Good,40,Good,50.9,4
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,32.2942,-64.7839
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,43.2567,-79.8692
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,-37.7833,175.2833
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,55.777,-4.039
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,40.2046,-74.6765
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,39.3939,-84.5653
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,39.9432,-77.7327
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,-37.7333,142.0167
-United States of America,Hamilton,45,Good,1,Good,31,Good,8,Good,45,Good,40.9334,-75.2844
 United States of America,Hays,62,Moderate,1,Good,37,Good,1,Good,62,Moderate,38.8821,-99.3221
 United States of America,Hercules,47,Good,1,Good,25,Good,8,Good,47,Good,38.0064,-122.2564
 Netherlands,Schagen,38,Good,1,Good,38,Good,2,Good,34,Good,52.7833,4.8
@@ -9370,7 +9306,6 @@ Brazil,Pilar,39,Good,1,Good,15,Good,2,Good,39,Good,10.807,124.565
 Brazil,Pilar,39,Good,1,Good,15,Good,2,Good,39,Good,9.8639,126.1008
 Brazil,Pilar,39,Good,1,Good,15,Good,2,Good,39,Good,17.4168,120.5954
 Brazil,Pitangueiras,149,Unhealthy for Sensitive Groups,3,Good,4,Good,7,Good,149,Unhealthy for Sensitive Groups,-21.0094,-48.2217
-,Ponta Delgada,21,Good,0,Good,21,Good,2,Good,12,Good,37.74,-25.67
 France,Pontivy,40,Good,1,Good,27,Good,3,Good,40,Good,48.0686,-2.9628
 United States of America,Port Arthur,29,Good,0,Good,24,Good,3,Good,29,Good,29.8554,-93.9264
 United States of America,Glen Ellyn,67,Moderate,2,Good,17,Good,17,Good,67,Moderate,41.8666,-88.0629
@@ -9848,7 +9783,6 @@ Italy,Taurisano,65,Moderate,1,Good,65,Moderate,0,Good,41,Good,39.95,18.1667
 Macedonia,Tearce,48,Good,1,Good,42,Good,0,Good,48,Good,42.0775,21.0519
 Japan,Tenri,40,Good,1,Good,40,Good,2,Good,36,Good,34.5967,135.8372
 Mexico,Tequisquiapan,57,Moderate,1,Good,17,Good,4,Good,57,Moderate,20.5206,-99.8958
-Spain,Teror,37,Good,0,Good,37,Good,0,Good,16,Good,28.059,-15.5476
 Thailand,Thap Khlo,50,Good,0,Good,21,Good,0,Good,50,Good,16.16,100.5967
 Brazil,Tocantins,51,Moderate,1,Good,5,Good,4,Good,51,Moderate,-21.175,-43.0178
 Romania,Rovinari,61,Moderate,1,Good,36,Good,2,Good,61,Moderate,44.9125,23.1622
@@ -9857,17 +9791,6 @@ Latvia,Saldus,40,Good,1,Good,35,Good,0,Good,40,Good,56.6667,22.5
 India,Shimla,178,Unhealthy,2,Good,114,Unhealthy for Sensitive Groups,0,Good,178,Unhealthy,31.1033,77.1722
 Japan,Shintomi,47,Good,1,Good,47,Good,1,Good,45,Good,32.0689,131.488
 Poland,Sierpc,34,Good,1,Good,34,Good,0,Good,28,Good,52.8833,19.6667
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,42.1155,-72.5395
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,37.1943,-93.2916
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,39.7709,-89.654
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,39.93,-83.7959
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,44.0538,-122.9811
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,38.781,-77.1839
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,39.9281,-75.3362
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,40.0986,-75.2016
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,36.4949,-86.8711
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,40.6994,-74.3254
-United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,49.9292,-96.6939
 United States of America,Springfield,45,Good,1,Good,45,Good,2,Good,31,Good,43.2907,-72.4809
 Ukraine,Stebnyk,52,Moderate,1,Good,29,Good,1,Good,52,Moderate,49.3,23.5667
 Indonesia,Sukabumi,97,Moderate,2,Good,67,Moderate,1,Good,97,Moderate,-6.9181,106.9315
@@ -10768,7 +10691,6 @@ Germany,Bautzen,73,Moderate,1,Good,40,Good,2,Good,73,Moderate,51.1814,14.4242
 United States of America,Baytown,78,Moderate,2,Good,15,Good,8,Good,78,Moderate,29.7587,-94.9671
 United States of America,Bellmawr,52,Moderate,1,Good,29,Good,9,Good,52,Moderate,39.8666,-75.0941
 Spain,Arnedo,62,Moderate,1,Good,19,Good,2,Good,62,Moderate,42.2167,-2.1
-Spain,Arucas,25,Good,0,Good,25,Good,0,Good,8,Good,28.1184,-15.5232
 Germany,Attendorn,69,Moderate,1,Good,36,Good,4,Good,69,Moderate,51.1167,7.9
 Germany,Bad Pyrmont,65,Moderate,1,Good,40,Good,5,Good,65,Moderate,51.9867,9.2636
 United States of America,Brookline,48,Good,1,Good,28,Good,8,Good,48,Good,42.3243,-71.1408
@@ -10914,14 +10836,12 @@ Czech Republic,Chodov,66,Moderate,1,Good,41,Good,2,Good,66,Moderate,50.2414,12.7
 Spain,Cieza,31,Good,1,Good,31,Good,1,Good,23,Good,38.2392,-1.4189
 Poland,Kielce,79,Moderate,1,Good,36,Good,1,Good,79,Moderate,50.8742,20.6333
 Finland,Kokkola,29,Good,1,Good,29,Good,2,Good,18,Good,63.8367,23.1333
-Palau,Koror,16,Good,0,Good,16,Good,0,Good,7,Good,7.3419,134.4792
 India,Kotagiri,27,Good,0,Good,21,Good,0,Good,27,Good,11.4167,76.8667
 India,Kotma,180,Unhealthy,2,Good,59,Moderate,0,Good,180,Unhealthy,23.2038,81.979
 Russia,Kulunda,34,Good,1,Good,34,Good,0,Good,30,Good,52.5667,78.9472
 Macedonia,Kumanovo,53,Moderate,1,Good,36,Good,1,Good,53,Moderate,42.1322,21.7144
 Croatia,Kutina,63,Moderate,1,Good,32,Good,1,Good,63,Moderate,45.4667,16.7833
-Spain,La Orotava,41,Good,0,Good,41,Good,0,Good,13,Good,28.3667,-16.5167
-Germany,Lage,35,Good,1,Good,35,Good,1,Good,35,Good,51.9889,8.7944
+,Lage,35,Good,1,Good,35,Good,1,Good,35,Good,51.9889,8.7944
 United States of America,Lake City,56,Moderate,1,Good,17,Good,5,Good,56,Moderate,30.1901,-82.6471
 Thailand,Lampang,34,Good,0,Good,23,Good,1,Good,34,Good,18.3,99.5
 Germany,Langenau,47,Good,1,Good,36,Good,3,Good,47,Good,48.4967,10.12
@@ -10987,7 +10907,6 @@ Belarus,Ivanava,33,Good,1,Good,33,Good,1,Good,20,Good,52.1333,25.55
 China,Jiangyin,169,Unhealthy,5,Good,169,Unhealthy,9,Good,155,Unhealthy,31.9087,120.2653
 ,,,,,,,,,,,,,
 Indonesia,Karanganyar,72,Moderate,1,Good,35,Good,0,Good,72,Moderate,-7.6033,110.9778
-,Kavaratti,58,Moderate,0,Good,20,Good,0,Good,58,Moderate,10.5626,72.6369
 United States of America,Kaysville,32,Good,1,Good,26,Good,5,Good,32,Good,41.029,-111.9456
 United States of America,Kenosha,58,Moderate,2,Good,23,Good,14,Good,58,Moderate,42.5865,-87.8773
 France,Denain,59,Moderate,1,Good,32,Good,3,Good,59,Moderate,50.3286,3.395
@@ -11102,7 +11021,6 @@ Slovenia,Ljubljana,31,Good,1,Good,31,Good,1,Good,15,Good,46.0514,14.5061
 Cuba,Los Arabos,87,Moderate,1,Good,20,Good,1,Good,87,Moderate,22.74,-80.7161
 Colombia,Luruaco,139,Unhealthy for Sensitive Groups,2,Good,13,Good,7,Good,139,Unhealthy for Sensitive Groups,10.6083,-75.1417
 Zambia,Lusaka,42,Good,1,Good,19,Good,0,Good,42,Good,-15.4167,28.2833
-Maldives,Male,19,Good,0,Good,19,Good,0,Good,15,Good,4.1753,73.5089
 Philippines,Maluso,26,Good,0,Good,15,Good,0,Good,26,Good,6.55,121.8833
 Belgium,Manage,35,Good,1,Good,28,Good,2,Good,35,Good,50.5,4.2333
 China,Lingyuan,153,Unhealthy,3,Good,107,Unhealthy for Sensitive Groups,1,Good,153,Unhealthy,41.2407,119.3957
@@ -11518,18 +11436,6 @@ Venezuela,Valencia,115,Unhealthy for Sensitive Groups,2,Good,7,Good,14,Good,115,
 Venezuela,Valencia,115,Unhealthy for Sensitive Groups,2,Good,7,Good,14,Good,115,Unhealthy for Sensitive Groups,10.65,-61.2
 Armenia,Vardenis,30,Good,0,Good,30,Good,0,Good,24,Good,40.1806,45.72
 Argentina,Venado Tuerto,19,Good,0,Good,19,Good,0,Good,15,Good,-33.75,-61.9667
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,48.4283,-123.3647
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,-4.6167,55.45
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,36.0436,14.2431
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,15.5781,120.6819
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,28.8287,-96.9849
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,13.1719,121.2756
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,14.225,121.325
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,-38.2333,-72.3333
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,-32.6167,-60.1667
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,12.45,124.3167
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,44.8634,-93.6585
-Seychelles,Victoria,26,Good,0,Good,25,Good,0,Good,26,Good,13.95,-88.6333
 India,Vidisha,153,Unhealthy,1,Good,37,Good,0,Good,153,Unhealthy,23.5239,77.8061
 Ecuador,Playas,23,Good,1,Good,21,Good,0,Good,23,Good,-2.63,-80.39
 United States of America,Washougal,47,Good,1,Good,29,Good,6,Good,47,Good,45.5825,-122.3451
@@ -11781,7 +11687,6 @@ United States of America,Cleveland,55,Moderate,1,Good,37,Good,3,Good,55,Moderate
 United States of America,Cleveland,55,Moderate,1,Good,37,Good,3,Good,55,Moderate,35.1817,-84.8707
 United States of America,Cleveland,55,Moderate,1,Good,37,Good,3,Good,55,Moderate,33.744,-90.7285
 India,Abohar,162,Unhealthy,2,Good,125,Unhealthy for Sensitive Groups,0,Good,162,Unhealthy,30.1334,74.2001
-Spain,Adeje,41,Good,0,Good,41,Good,0,Good,12,Good,28.1167,-16.7167
 United States of America,Affton,52,Moderate,1,Good,41,Good,4,Good,52,Moderate,38.5499,-90.3264
 Costa Rica,Alajuela,60,Moderate,2,Good,1,Good,13,Good,60,Moderate,10.164,-84.2645
 India,Aliganj,187,Unhealthy,3,Good,164,Unhealthy,2,Good,187,Unhealthy,24.9365,85.925
@@ -12272,7 +12177,6 @@ Italy,San Martino Buon Albergo,125,Unhealthy for Sensitive Groups,2,Good,31,Good
 Philippines,San Nicolas,62,Moderate,1,Good,23,Good,1,Good,62,Moderate,16.07,120.7653
 Philippines,San Nicolas,62,Moderate,1,Good,23,Good,1,Good,62,Moderate,18.175,120.595
 Philippines,San Nicolas,62,Moderate,1,Good,23,Good,1,Good,62,Moderate,13.9283,120.951
-India,Sandur,57,Moderate,0,Good,24,Good,0,Good,57,Moderate,61.8344,-6.8171
 Spain,Sant Just Desvern,62,Moderate,1,Good,23,Good,9,Good,62,Moderate,41.3833,2.075
 Italy,Santa Marinella,37,Good,1,Good,37,Good,2,Good,19,Good,42.0333,11.85
 United States of America,Sapulpa,71,Moderate,1,Good,31,Good,2,Good,71,Moderate,36.0091,-96.1003
@@ -12565,9 +12469,6 @@ United States of America,Wantagh,58,Moderate,1,Good,27,Good,12,Good,58,Moderate,
 Nigeria,Warri,202,Very Unhealthy,16,Good,1,Good,8,Good,202,Very Unhealthy,5.5167,5.75
 Spain,Tortosa,42,Good,0,Good,42,Good,0,Good,23,Good,40.8125,0.5211
 Italy,Travagliato,62,Moderate,1,Good,36,Good,3,Good,62,Moderate,45.524,10.0797
-Brazil,Trindade,23,Good,0,Good,15,Good,0,Good,23,Good,-16.6581,-49.4836
-Brazil,Trindade,23,Good,0,Good,15,Good,0,Good,23,Good,0.3,6.6833
-Brazil,Trindade,23,Good,0,Good,15,Good,0,Good,23,Good,-7.7619,-40.2678
 Czech Republic,Trutnov,45,Good,1,Good,23,Good,2,Good,45,Good,50.5606,15.9131
 Turkey,Turgutlu,42,Good,1,Good,42,Good,1,Good,32,Good,38.5,27.7
 Russia,Ustyuzhna,25,Good,1,Good,25,Good,0,Good,17,Good,58.8333,36.4333
@@ -13086,12 +12987,6 @@ United States of America,Pinehurst,61,Moderate,1,Good,30,Good,3,Good,61,Moderate
 United States of America,Pittsburg,73,Moderate,1,Good,27,Good,4,Good,73,Moderate,38.0182,-121.8965
 United States of America,Pittsburg,73,Moderate,1,Good,27,Good,4,Good,73,Moderate,37.4129,-94.6985
 Spain,Paterna,35,Good,0,Good,35,Good,0,Good,18,Good,39.5028,-0.4406
-Canada,Kingston,36,Good,1,Good,36,Good,1,Good,31,Good,17.9714,-76.7931
-Canada,Kingston,36,Good,1,Good,36,Good,1,Good,31,Good,-29.0569,167.9617
-Canada,Kingston,36,Good,1,Good,36,Good,1,Good,31,Good,41.2652,-75.8876
-Canada,Kingston,36,Good,1,Good,36,Good,1,Good,31,Good,41.9295,-73.9968
-Canada,Kingston,36,Good,1,Good,36,Good,1,Good,31,Good,41.9862,-70.7482
-Canada,Kingston,36,Good,1,Good,36,Good,1,Good,31,Good,-42.9769,147.3083
 Zambia,Kitwe,56,Moderate,1,Good,22,Good,0,Good,56,Moderate,-12.8167,28.2
 Russia,Korenovsk,36,Good,1,Good,36,Good,2,Good,30,Good,45.4686,39.4519
 Italy,Rovereto,28,Good,1,Good,28,Good,1,Good,12,Good,45.8833,11.05
@@ -13887,7 +13782,6 @@ United States of America,Niagara Falls,42,Good,1,Good,28,Good,5,Good,42,Good,43.
 Mali,Mopti,96,Moderate,1,Good,17,Good,1,Good,96,Moderate,14.49,-4.18
 Germany,Saarwellingen,65,Moderate,1,Good,54,Moderate,0,Good,65,Moderate,49.3542,6.805
 Italy,Maddaloni,69,Moderate,1,Good,69,Moderate,0,Good,56,Moderate,41.0333,14.3833
-Equatorial Guinea,Malabo,32,Good,1,Good,22,Good,0,Good,32,Good,3.75,8.7833
 Brazil,Conchal,62,Moderate,1,Good,24,Good,1,Good,62,Moderate,-22.33,-47.1728
 United States of America,Corona,93,Moderate,3,Good,20,Good,19,Good,93,Moderate,33.8616,-117.5649
 ,Corpus Christi,40,Good,0,Good,27,Good,0,Good,40,Good,27.7254,-97.3767
@@ -14260,7 +14154,6 @@ Russia,Dobryanka,42,Good,1,Good,25,Good,2,Good,42,Good,58.4667,56.4167
 Czech Republic,Olomouc,52,Moderate,1,Good,26,Good,2,Good,52,Moderate,49.5939,17.2508
 Colombia,Orito,38,Good,1,Good,3,Good,2,Good,38,Good,0.6661,-76.8708
 India,Paithan,120,Unhealthy for Sensitive Groups,1,Good,34,Good,0,Good,120,Unhealthy for Sensitive Groups,19.48,75.38
-France,Papeete,32,Good,0,Good,32,Good,0,Good,13,Good,-17.5334,-149.5667
 Brazil,Peabiru,13,Good,1,Good,9,Good,0,Good,13,Good,-23.9128,-52.3428
 India,Peddapalli,140,Unhealthy for Sensitive Groups,1,Good,38,Good,0,Good,140,Unhealthy for Sensitive Groups,18.6162,79.3832
 United States of America,Pendleton,30,Good,1,Good,22,Good,4,Good,30,Good,45.6757,-118.8201
@@ -14678,9 +14571,6 @@ Brazil,Itabira,52,Moderate,1,Good,7,Good,3,Good,52,Moderate,-19.6189,-43.2269
 United States of America,Hillsboro,38,Good,1,Good,24,Good,8,Good,38,Good,45.5273,-122.936
 Paraguay,San Juan Bautista,24,Good,0,Good,20,Good,0,Good,24,Good,-26.6333,-57.1667
 Paraguay,San Juan Bautista,24,Good,0,Good,20,Good,0,Good,24,Good,14.4167,-91.1833
-Romania,Santana,73,Moderate,1,Good,34,Good,1,Good,73,Moderate,-0.035,-51.175
-Romania,Santana,73,Moderate,1,Good,34,Good,1,Good,73,Moderate,0.2583,6.7417
-Romania,Santana,73,Moderate,1,Good,34,Good,1,Good,73,Moderate,-12.9828,-44.0508
 Brazil,Parelhas,35,Good,0,Good,18,Good,1,Good,35,Good,-6.6878,-36.6578
 United States of America,Parma Heights,42,Good,1,Good,39,Good,3,Good,42,Good,41.3865,-81.7637
 Indonesia,Pasuruan,99,Moderate,1,Good,43,Good,1,Good,99,Moderate,-7.6406,112.9065
@@ -14862,7 +14752,6 @@ Philippines,Mati,23,Good,0,Good,15,Good,0,Good,23,Good,6.9483,126.2272
 Japan,Matsudo,56,Moderate,1,Good,44,Good,3,Good,56,Moderate,35.7876,139.9032
 United States of America,Menomonie,50,Good,1,Good,30,Good,3,Good,50,Good,44.8893,-91.9084
 Venezuela,Acarigua,45,Good,1,Good,19,Good,0,Good,45,Good,9.5597,-69.2019
-,Apia,17,Good,0,Good,17,Good,0,Good,10,Good,-13.8333,-171.75
 Brazil,Araripina,20,Good,0,Good,20,Good,0,Good,15,Good,-7.55,-40.5667
 United Kingdom,Basingstoke,28,Good,1,Good,28,Good,6,Good,27,Good,51.2667,-1.0876
 India,Chikodi,72,Moderate,1,Good,30,Good,1,Good,72,Moderate,16.43,74.6
@@ -15751,7 +15640,6 @@ United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,33.
 United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,36.2933,-88.3065
 United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,38.2016,-84.2718
 United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,39.6148,-87.6903
-Cabo Verde,Praia,40,Good,0,Good,40,Good,0,Good,27,Good,14.918,-23.509
 Russia,Sokol,46,Good,1,Good,29,Good,1,Good,46,Good,59.4667,40.1167
 Italy,Syracuse,56,Moderate,1,Good,31,Good,3,Good,56,Moderate,43.0407,-76.1437
 Italy,Syracuse,56,Moderate,1,Good,31,Good,3,Good,56,Moderate,41.0859,-112.0698
@@ -15784,7 +15672,6 @@ India,Khowai,63,Moderate,3,Good,36,Good,2,Good,63,Moderate,24.065,91.605
 China,Kunming,49,Good,1,Good,21,Good,2,Good,49,Good,25.0433,102.7061
 United States of America,La Grange Park,59,Moderate,2,Good,29,Good,14,Good,59,Moderate,41.8308,-87.8723
 Germany,Ladenburg,53,Moderate,1,Good,31,Good,3,Good,53,Moderate,49.4667,8.6167
-Spain,Las Palmas,37,Good,1,Good,37,Good,0,Good,16,Good,28.1272,-15.4314
 Italy,Magione,38,Good,1,Good,38,Good,2,Good,23,Good,43.15,12.2
 Germany,Rietberg,28,Good,0,Good,28,Good,1,Good,28,Good,51.8,8.4333
 Japan,Niigata,42,Good,1,Good,42,Good,0,Good,31,Good,37.9161,139.0364
@@ -15806,7 +15693,6 @@ United States of America,Appleton,56,Moderate,1,Good,31,Good,0,Good,56,Moderate,
 Russia,Armavir,48,Good,1,Good,48,Good,1,Good,28,Good,45,41.1167
 Russia,Armavir,48,Good,1,Good,48,Good,1,Good,28,Good,40.15,44.04
 Brazil,Augusto Correa,22,Good,0,Good,19,Good,0,Good,22,Good,-1.0219,-46.645
-New Zealand,Avarua,28,Good,0,Good,28,Good,0,Good,12,Good,-21.207,-159.771
 Italy,Avigliano,54,Moderate,1,Good,54,Moderate,0,Good,40,Good,40.7314,15.7166
 United Kingdom,Aylesbury,34,Good,1,Good,30,Good,1,Good,34,Good,51.8168,-0.8124
 Brazil,Correntina,11,Good,0,Good,11,Good,0,Good,3,Good,-13.3428,-44.6369
@@ -16397,8 +16283,7 @@ Germany,Prenzlau,36,Good,0,Good,36,Good,1,Good,29,Good,53.3167,13.8667
 Japan,Komoro,32,Good,1,Good,32,Good,1,Good,10,Good,36.3275,138.4258
 Germany,Darmstadt,66,Moderate,1,Good,36,Good,3,Good,66,Moderate,49.8722,8.6528
 Germany,Balingen,58,Moderate,1,Good,39,Good,1,Good,58,Moderate,48.2731,8.8506
-Spain,Ingenio,37,Good,1,Good,37,Good,0,Good,17,Good,27.9214,-15.4324
-Italy,Todi,73,Moderate,1,Good,73,Moderate,0,Good,39,Good,42.7789,12.4142
+,Todi,73,Moderate,1,Good,73,Moderate,0,Good,39,Good,42.7789,12.4142
 Finland,Turku,36,Good,1,Good,36,Good,0,Good,5,Good,60.45,22.2667
 United States of America,Vienna,45,Good,1,Good,45,Good,3,Good,38,Good,48.2083,16.3725
 United States of America,Vienna,45,Good,1,Good,45,Good,3,Good,38,Good,38.8996,-77.2597
