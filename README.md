@@ -1,1 +1,1 @@
-# vp_global_air_pollution
+# Global Air Pollution Vizualization
